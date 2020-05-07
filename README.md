@@ -3,6 +3,7 @@
 This project is aimed to use deep neural network to predict significant contacts for chromatin regions with the use of corresponding epigenomic information and sequences.
 
 This folder has two models used in this project:
+
 The file "model_auc.py" includes building and training of the model only use epigenomic matrices.
 
 The file "model_auc.py" includes building and training of the model use epigenomic matrices and sequence matrices.
