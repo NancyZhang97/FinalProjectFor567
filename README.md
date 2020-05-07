@@ -4,6 +4,7 @@ This project is aimed to use deep neural network to predict significant contacts
 
 This folder has two models used in this project:
 The file "model_auc.py" includes building and training of the model only use epigenomic matrices.
+
 The file "model_auc.py" includes building and training of the model use epigenomic matrices and sequence matrices.
 
 Because the training dataset and saved model files are too big to upload, I just upload codes about model. Before training the model, in order to get input data and targets, you need to do:
